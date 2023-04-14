@@ -170,10 +170,6 @@ header .przycisk:hover {
 .aboutus .aboutus-card-text {
   font-size: 14px;
 }
-.aboutus .aboutus-hover:hover {
-  color: #00d447;
-  text-shadow: 0px 0px 2px rgb(22, 100, 0);
-}
 
 .aboutus-hero {
   position: relative;
